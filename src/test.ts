@@ -1,3 +1,5 @@
-import GetGoogleLinks from "./index";
+import ScrapInstagramProfile from "./index";
 
-GetGoogleLinks({ searches: `crawlora\nscaletech` });
+ScrapInstagramProfile({
+  urls: `https://www.instagram.com/cristiano/\nhttps://instagram.com/nike`,
+});
