@@ -14,5 +14,6 @@
     "short_description": "Extract post count, followers, and following statistics from Instagram profiles using URLs.",
     "version": "1.0.0",
     "documentation_file": "./documentation.md",
-    "input_file": "./input.json"
+    "input_file": "./input.json",
+    "app_id": "0c21809d-c954-4cda-a351-f8c73a087b55"
 }
